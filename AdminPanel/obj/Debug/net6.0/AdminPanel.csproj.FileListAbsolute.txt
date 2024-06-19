@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\bin\Debug\net6.0\AdminPanel.exe
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\bin\Debug\net6.0\AdminPanel.deps.json
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\bin\Debug\net6.0\AdminPanel.runtimeconfig.json
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\bin\Debug\net6.0\AdminPanel.dll
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\bin\Debug\net6.0\AdminPanel.pdb
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.AssemblyInfo.cs
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.sourcelink.json
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.dll
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\refint\AdminPanel.dll
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.pdb
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\AdminPanel.genruntimeconfig.cache
+C:\Users\hp\Desktop\Abstract-Tasks\06.12.2024(2)\obj\Debug\net6.0\ref\AdminPanel.dll
